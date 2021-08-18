@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Caio Barbieri
 
 - 🎓 Graduando em Segurança da Informação e Sistemas da Informação
-- 🌱 Estudando Python e Java
+- 🌱 Atualmente estudando Python e Java
 
 <div>
   <a href="https://github.com/caiolombello">
@@ -9,6 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolombello&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
  <div style="display: inline_block"><br>
+   Linguagens de interesse: 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">

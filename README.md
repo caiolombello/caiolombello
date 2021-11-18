@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Caio Barbieri
 
-- 🎓 Graduando em Segurança da Informação e Sistemas da Informação
-- 🌱 Atualmente estudando Python e Java
+- 🎓 Graduando Sistemas da Informação
+- 🌱 Atualmente estudando Java
 
 <div>
   <a href="https://github.com/caiolombello">

@@ -8,15 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiolombello&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolombello&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
- <div style="display: inline_block"><br>
-   Linguagens de interesse: 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
- </div>
 
   ##
   
@@ -30,3 +21,8 @@
  ![Snake animation](https://github.com/caiolombello/caiolombello/blob/output/github-contribution-grid-snake.svg)
     
   </div>
+
+   #### Badges:
+ <div style="display: inline_block"><br> 
+  <img align="center" alt="Introduction to Cybersecurity" height="120" width="120" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
+ </div>

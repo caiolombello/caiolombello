@@ -22,7 +22,12 @@
     
   </div>
 
+  #### Tecnologias:
+   <div style="display: inline_block"><br> 
+  <img align="center" alt="Java" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+   </div>
+  
    #### Badges:
  <div style="display: inline_block"><br> 
-  <img align="center" alt="Introduction to Cybersecurity" height="120" width="120" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
+  <img align="center" alt="Introduction to Cybersecurity" height="128" width="128" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
  </div>

@@ -11,13 +11,15 @@
 
   #### Tecnologias:
    <div style="display: inline_block"><br> 
-  <img align="center" alt="Java" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-   </div>
+  <img align="center" alt="Java" height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Spring" height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">  
+  <img align="center" alt="MySQL" height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Git" height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  </div>
   
    #### Badges:
  <div style="display: inline_block"><br> 
   <img align="center" alt="Introduction to Cybersecurity" height="128" width="128" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
-   
    <img align="center" alt="Java Explorer" height="128" width="128" src="https://user-images.githubusercontent.com/70986039/147416783-1669eed1-ce20-4b14-b049-d99387fc328d.png">
  </div>
   

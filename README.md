@@ -11,10 +11,9 @@
 
   #### Tecnologias:
    <div style="display: inline_block"><br> 
-  <img align="center" alt="Java" height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Java" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">  
-  <img align="center" alt="MySQL" height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Git" height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="SQL" height="128" width="128" src="https://www.pngrepo.com/png/303229/180/microsoft-sql-server-logo.png">
   </div>
   
    #### Badges:

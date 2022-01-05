@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/caiolvbarbieri/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/caiolvbarbieri" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/17839520/caio-barbieri" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://exercism.org/profiles/caiolombello" title="Exercism Profile"><img width="22" src="images/exercism"> Exercism</a></code>
+  <code><a href="https://exercism.org/profiles/caiolombello" title="Exercism Profile"><img width="22" src="images/exercism.svg"> Exercism</a></code>
 </h5>
 <br>
 <p align="center">

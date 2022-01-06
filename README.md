@@ -22,7 +22,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Linux, Java and Database.
+  📚 I’m currently learning Bash, Java and SQL.
   <br>
   💬 Ask me anything about from <a href="https://github.com/caiolombello/caiolombello/issues" title="Issues">Here</a>
   <br>

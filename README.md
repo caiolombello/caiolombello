@@ -42,6 +42,8 @@
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MSSQL" height="25" src="images/microsoft-sql-server.svg"></code>
+  <code><img title="Spring" height="25" src="images/spring.svg"></code>
+  <code><img title="Bash" height="25" src="images/bash.svg"></code>
 </p>
 <hr>
 

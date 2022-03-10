@@ -18,7 +18,7 @@
   Hi, I'm Caio Barbieri, DevOps Intern from Brazil
   <br>
   <br>
-  🎓 I'm currently studying for a bachelor's degree in Integrated Faculties of Ourinhos (UNIFIO)
+  🎓 I'm currently studying for a bachelor's degree in Unimetrocamp
   <br>
   💻 I love writing code and learn anythings about it
   <br>

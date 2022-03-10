@@ -15,7 +15,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Caio Barbieri, Software Analysis and Development from Brazil
+  Hi, I'm Caio Barbieri, DevOps Intern from Brazil
   <br>
   <br>
   🎓 I'm currently studying for a bachelor's degree in Integrated Faculties of Ourinhos (UNIFIO)

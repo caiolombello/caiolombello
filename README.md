@@ -22,7 +22,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Bash, Java and SQL.
+  📚 I’m currently learning Shell Scriptig, Docker and Pipeline.
   <br>
   💬 Ask me anything about from <a href="https://github.com/caiolombello/caiolombello/issues" title="Issues">Here</a>
   <br>

@@ -35,15 +35,23 @@
 <p align="center">
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="NodeJS" height="25" src="images/nodejs.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Gitlab" height="25" src="images/gitlab.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="Spring" height="25" src="images/spring.svg"></code>
+  <code><img title="Maven" height="15" src="images/maven.svg"></code>
   <code><img title="Bash" height="25" src="images/bash.svg"></code>
   <code><img title="MSSQL" height="25" src="images/microsoft-sql-server.svg"></code>
+  <code><img title="Docker" height="25" src="images/docker.svg"></code>
+  <code><img title="CI/CD" height="25" src="images/devops.svg"></code>
+
+
+
 </p>
 <hr>
 

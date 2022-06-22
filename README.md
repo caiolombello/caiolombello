@@ -7,12 +7,18 @@
 </h1>
 
 <h5 align="center">
-  <a href=href="https://www.linkedin.com/in/caiolvbarbieri/">
+  <a href="https://www.linkedin.com/in/caiolvbarbieri/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <code><a href="https://www.hackerrank.com/caiolvbarbieri" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/17839520/caio-barbieri" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://exercism.org/profiles/caiolombello" title="Exercism Profile"><img width="22" src="images/exercism.svg"> Exercism</a></code>
+  <a href="https://www.hackerrank.com/caiolvbarbieri">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  <a href="https://stackoverflow.com/users/17839520/caio-barbieri">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
+  </a>
 </h5>
 <br>
 <p align="center">

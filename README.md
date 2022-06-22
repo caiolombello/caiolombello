@@ -1,78 +1,161 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=caiolombello.caiolombello">
+<img
+  align="right"
+  src="https://visitor-badge.laobi.icu/badge?page_id=caiolombello.caiolombello"
+/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Caio+Barbieri....;Nice+to+meet+you!&center=true&size=30">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Caio+Barbieri....;Nice+to+meet+you!&center=true&size=30"
+    />
   </a>
 </h1>
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/caiolvbarbieri/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  <a href="https://www.youtube.com/c/caiolombello">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+    </a>
   </a>
   <a href="https://www.hackerrank.com/caiolvbarbieri">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+    />
   </a>
   <a href="https://stackoverflow.com/users/17839520/caio-barbieri">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+    />
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"
+    />
   </a>
 </h5>
-<br>
+<br />
 <p align="center">
   Hi, I'm Caio Barbieri, DevOps Intern from Brazil
-  <br>
-  <br>
+  <br />
+  <br />
   🎓 I'm currently studying for a bachelor's degree in Unimetrocamp
-  <br>
+  <br />
   💻 I love writing code and learn anythings about it
+  <br />
+  💬 Ask me anything about from
+  <a href="https://github.com/caiolombello/caiolombello/issues" title="Issues"
+    >Here</a
+  >
+  <br />
+  📫 How to reach me:
   <br>
-  💬 Ask me anything about from <a href="https://github.com/caiolombello/caiolombello/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: caiolvbarbieri@pm.me">caiolvbarbieri@pm.me</a>
+  <a href="mailto: caiolvbarbieri@pm.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>
 </p>
 
-<hr>
+<hr />
 <h2 align="center">💻 Technologies</h2>
-<br>
+<br />
 <p align="center">
-<img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white">
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img
+    src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+  />
+  <img
+    src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+  />
+  <img
+    src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+  />
+  <img
+    src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+  />
 </p>
-<hr>
+<hr />
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=caiolombello&theme=react&border=61dafb&hide_border=true" alt="caiolombello" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=caiolombello&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=5&layout=compact&border_color=61dafb&hide_border=true" alt="Caio's github stats" /></a>
-
+<br />
+<p align="center"></p>
+<div align="center">
+  <a
+    href="https://github.com/denvercoder1/github-readme-streak-stats"
+    title="Go to Source"
+  >
+    <img
+      align="center"
+      width="390"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=caiolombello&theme=react&border=61dafb&hide_border=true"
+      alt="caiolombello"
+  /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"
+    ><img
+      width="390"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=caiolombello&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=5&layout=compact&border_color=61dafb&hide_border=true"
+      alt="Caio's github stats"
+  /></a>
 </div>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolombello&layout=compact&theme=buefy&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=caiolombello&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"
+    ><img
+      width="325"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolombello&layout=compact&theme=buefy&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
+  /></a>
+</div>
+<br />
+<img
+  src="https://activity-graph.herokuapp.com/graph?username=caiolombello&theme=react-dark&bg_color=20232a&hide_border=true"
+  width="100%"
+/>
 <!--
 <hr>
 

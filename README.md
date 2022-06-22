@@ -7,8 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/caiolvbarbieri/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <a href=href="https://www.linkedin.com/in/caiolvbarbieri/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <code><a href="https://www.hackerrank.com/caiolvbarbieri" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/17839520/caio-barbieri" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://exercism.org/profiles/caiolombello" title="Exercism Profile"><img width="22" src="images/exercism.svg"> Exercism</a></code>
@@ -22,36 +23,32 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Shell Scriptig, Docker and Pipeline.
-  <br>
   💬 Ask me anything about from <a href="https://github.com/caiolombello/caiolombello/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: caiolvbarbieri@pm.me">caiolvbarbieri@pm.me</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+<h2 align="center">💻 Technologies</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="NodeJS" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Gitlab" height="25" src="images/gitlab.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Spring" height="25" src="images/spring.svg"></code>
-  <code><img title="Maven" height="15" src="images/maven.svg"></code>
-  <code><img title="Bash" height="25" src="images/bash.svg"></code>
-  <code><img title="MSSQL" height="25" src="images/microsoft-sql-server.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="CI/CD" height="25" src="images/devops.svg"></code>
-
-
-
+<img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white">
+<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 <hr>
 

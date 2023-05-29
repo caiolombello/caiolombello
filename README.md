@@ -21,30 +21,31 @@ Hi, I'm Caio Barbieri, a DevOps Analyst from Brazil.👋
 
 ## 👨‍💼 Professional Experiences
 
-- DevOps Junior Analyst at Vertigo Tecnologia (October 2022 - Present)
-- Intern at Vertigo Tecnologia (February 2022 - October 2022)
+- DevOps Junior Analyst at [Vertigo Tecnologia](https://vertigo.com.br/) (October 2022 - Present)
+- Intern at [Vertigo Tecnologia](https://vertigo.com.br/) (February 2022 - October 2022)
 
 ---
 
 ## 🚀 Projects
 
-- Transformation Culture at Engie Brasil
-- AWS EKS and Kubernetes Automation and Management with Terraform
-- Static Website Implementation with CloudFront, S3, and Terraform
-- Remote State Lock Implementation with Terraform
-- Load Stress Tool (Python)
-- Gitlab Migration Tool (Python)
-- Windows DevOps Automation Tool
+- [Transformation Culture at Engie Brasil](https://vertigo.com.br/solucoes/cloud_native/)
+- [AWS EKS and Kubernetes Automation and Management with Terraform](https://github.com/caiolombello/eks)
+- [Static Website Implementation with CloudFront, S3, and Terraform](https://github.com/caiolombello/cf-static-website)
+- [Remote State Lock Implementation with Terraform](https://github.com/caiolombello/remote-state-lock)
+- [Load Stress Tool (Python)](https://github.com/caiolombello/load-stress-tool)
+- [Gitlab Migration Tool (Python)](https://github.com/caiolombello/Gitlab-Migration-Tool)
+- [Business Observability](https://github.com/caiolombello/business-observability)
+- [Windows DevOps Automation Tool](https://github.com/caiolombello/Windows10-DevOps)
 
 ---
 
 ## 📝 Articles
 
-- Kubernetes HPA: Custom Metrics for Effective CPU & Memory Scaling
-- Accelerating Digital Transformation: CALMS, Three Ways, and the Cloud Native Journey
-- From Manifestos to Helm Charts: Understanding the Advantages for Kubernetes Microservices (part 1)
-- Implementing Microservices with Kubernetes: Creating, Testing, and Sharing Helm Charts (part 2)
-- How to Use Custom Metrics in Kubernetes' Horizontal Pod Autoscaler (HPA)
+- [Kubernetes HPA: Custom Metrics for Effective CPU & Memory Scaling](https://vertigo.com.br/kubernetes_hpa_memoria/)
+- [Accelerating Digital Transformation: CALMS, Three Ways, and the Cloud Native Journey](https://caiolombello.medium.com/acelerando-a-transforma%C3%A7%C3%A3o-digital-calms-three-ways-e-a-jornada-cloud-native-fd429d565a47)
+- [From Manifestos to Helm Charts: Understanding the Advantages for Kubernetes Microservices (part 1)](https://vertigo.com.br/de-manifestos-a-helm-charts-entendendo-as-vantagens-para-microsservicos-kubernetes-parte-1/)
+- [Implementing Microservices with Kubernetes: Creating, Testing, and Sharing Helm Charts (part 2)](https://vertigo.com.br/implementando-microsservicos-com-kubernetes-criando-testando-e-compartilhando-helm-charts-parte-2/)
+- [How to Use Custom Metrics in Kubernetes' Horizontal Pod Autoscaler (HPA)](https://vertigo.com.br/como-utilizar-metricas-personalizadas-no-horizontal-pod-autoscaler-hpa-do-kubernetes/)
 
 ---
 

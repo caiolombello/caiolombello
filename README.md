@@ -1,21 +1,24 @@
-Hi, I'm Caio Barbieri, a DevOps Analyst from Brazil.👋 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=header"/>
 
-🎓 I have a bachelor's degree in Information Systems.  
-💻 I love writing code and learning new things about it.  
-💬 Ask me anything [here](https://github.com/caiolombello).  
-📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/caiolvbarbieri/).  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9fb2e0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Caio+Barbieri!;DevOps+Analyst+from+Brazil!;Welcome+to+my+GitHub+Profile!+:%29)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiolombello&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Caio's GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolombello&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=bash,python,kubernetes,aws,terraform,docker,github,git)](https://skillicons.dev)
+
+![Caio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caiolombello&bg_color=0d1117&color=9fb2e0&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
 
 ---
 
 ## 💻 Skills and Technologies
 
-- Bash
-- Python
-- Kubernetes
-- AWS
-- Terraform
-- CI/CD
-- Docker
+- **Programming & Scripting:** Bash, Python  
+- **Cloud & Containers:** AWS, Kubernetes, Docker  
+- **Infrastructure as Code (IaC):** Terraform  
+- **CI/CD:** Gitlab, GitHub Actions, Bamboo, Azure  
 
 ---
 
@@ -26,30 +29,10 @@ Hi, I'm Caio Barbieri, a DevOps Analyst from Brazil.👋
 
 ---
 
-## 🚀 Projects
+## 📫 Contact Me
 
-- [Transformation Culture at Engie Brasil](https://vertigo.com.br/solucoes/cloud_native/)
-- [AWS EKS and Kubernetes Automation and Management with Terraform](https://github.com/caiolombello/eks)
-- [Static Website Implementation with CloudFront, S3, and Terraform](https://github.com/caiolombello/cf-static-website)
-- [Remote State Lock Implementation with Terraform](https://github.com/caiolombello/remote-state-lock)
-- [Load Stress Tool (Python)](https://github.com/caiolombello/load-stress-tool)
-- [Gitlab Migration Tool (Python)](https://github.com/caiolombello/Gitlab-Migration-Tool)
-- [Business Observability](https://github.com/caiolombello/business-observability)
-- [Windows DevOps Automation Tool](https://github.com/caiolombello/Windows10-DevOps)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/caiolvbarbieri/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/caiolombello)
+[![G-mail](https://skillicons.dev/icons?i=gmail)](mailto:caio@lombello.com)
 
----
-
-## 📝 Articles
-
-- [Kubernetes HPA: Custom Metrics for Effective CPU & Memory Scaling](https://vertigo.com.br/kubernetes_hpa_memoria/)
-- [Accelerating Digital Transformation: CALMS, Three Ways, and the Cloud Native Journey](https://caiolombello.medium.com/acelerando-a-transforma%C3%A7%C3%A3o-digital-calms-three-ways-e-a-jornada-cloud-native-fd429d565a47)
-- [From Manifestos to Helm Charts: Understanding the Advantages for Kubernetes Microservices (part 1)](https://vertigo.com.br/de-manifestos-a-helm-charts-entendendo-as-vantagens-para-microsservicos-kubernetes-parte-1/)
-- [Implementing Microservices with Kubernetes: Creating, Testing, and Sharing Helm Charts (part 2)](https://vertigo.com.br/implementando-microsservicos-com-kubernetes-criando-testando-e-compartilhando-helm-charts-parte-2/)
-- [How to Use Custom Metrics in Kubernetes' Horizontal Pod Autoscaler (HPA)](https://vertigo.com.br/como-utilizar-metricas-personalizadas-no-horizontal-pod-autoscaler-hpa-do-kubernetes/)
-
----
-
-## ⚡ GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiolombello)](https://github.com/anuraghazra/github-readme-stats)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>

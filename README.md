@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou Caio Barbieri
 DevOps Engineer focado em automação, observabilidade e IA aplicada a operações. <br>
-🌐 [caio.lombello.com](https://caio.lombello.com) • [LinkedIn](https://linkedin.com/in/caiolvbarbieri)
+<br> 🌐 [caio.lombello.com](https://caio.lombello.com) • [LinkedIn](https://linkedin.com/in/caiolvbarbieri)
 
 ## 🛠️ No que trabalho
 Python • Golang • AWS • Kubernetes • Terraform • GitOps • Prometheus/Grafana
@@ -22,7 +22,7 @@ Quer saber mais? Visite meu site ou fale comigo no LinkedIn! 🚀
 
 # 👋 Hi, I'm Caio Barbieri
 DevOps Engineer focused on infrastructure automation, observability and AI-driven operations. <br>
-🌐 [caio.lombello.com](https://caio.lombello.com) • [LinkedIn](https://linkedin.com/in/caiolvbarbieri)
+<br> 🌐 [caio.lombello.com](https://caio.lombello.com) • [LinkedIn](https://linkedin.com/in/caiolvbarbieri)
 
 ## 🛠️ Main stack
 Python • Golang • AWS • Kubernetes • Terraform • GitOps • Prometheus/Grafana

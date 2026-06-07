@@ -1,37 +1,32 @@
-<details open>
-  <summary>🇧🇷 Português</summary>
+<h1 align="center">👋 Olá, eu sou Caio Barbieri</h1>
 
-# 👋 Olá, eu sou Caio Barbieri
-DevOps Engineer focado em automação, observabilidade e IA aplicada a operações. <br>
-<br> 🌐 [caio.lombello.com](https://caio.lombello.com) • [LinkedIn](https://linkedin.com/in/caiolvbarbieri)
+<p align="center">
+  <strong>DevOps Engineer</strong> • Automação, Observabilidade & IA aplicada a operações
+</p>
 
-## 🛠️ No que trabalho
-Python • Golang • AWS • Kubernetes • Terraform • GitOps • Prometheus/Grafana
+<p align="center">
+  <a href="https://caio.lombello.com">🌐 Website</a> •
+  <a href="https://linkedin.com/in/caiolvbarbieri">💼 LinkedIn</a>
+</p>
 
-## 🚀 Destaques recentes
-- Plataforma de Templates e DevEx com Backstage - Infraestrutura multi-cluster automatizada (2025)
-- Plataforma IA em Kubernetes no MPRJ – MageAI + Ollama em EKS (2024)
-- Stack de Observabilidade – ANBIMA (2024)
-- Escala de 50+ microserviços com Karpenter & Bottlerocket (2023-24)
+---
 
-Quer saber mais? Visite meu site ou fale comigo no LinkedIn! 🚀
-</details>
+### 🛠️ Stack
 
-<details>
-  <summary>🇺🇸 English</summary>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+</p>
 
-# 👋 Hi, I'm Caio Barbieri
-DevOps Engineer focused on infrastructure automation, observability and AI-driven operations. <br>
-<br> 🌐 [caio.lombello.com](https://caio.lombello.com) • [LinkedIn](https://linkedin.com/in/caiolvbarbieri)
+---
 
-## 🛠️ Main stack
-Python • Golang • AWS • Kubernetes • Terraform • GitOps • Prometheus/Grafana
-
-## 🚀 Recent highlights
-- Template and DevEx Platform with Backstage - Automated multi-cluster infrastructure (2025)
-- AI Platform on Kubernetes at MPRJ – MageAI + Ollama on EKS (2024)
-- Full Observability Stack – ANBIMA (2024)
-- Scaling 50+ critical microservices with Karpenter & Bottlerocket (2023-24)
-
-Want to know more? Check my website or reach out on LinkedIn! 🚀
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiolombello&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolombello&layout=compact&hide_border=true&theme=tokyonight" height="160" />
+</p>
